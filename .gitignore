@@ -35,6 +35,3 @@ go.work.sum
 #__pycache__/
 #.env
 #*.sqlite3
-
-
-#Le .gitignore permet d'ignorer certains fichiers et répertoires dans un dépôt Git.
